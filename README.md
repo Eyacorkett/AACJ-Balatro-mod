@@ -5,7 +5,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 # Changes
 ## Jokers
 
-**Progress: 2/150**
+**Progress: 14/150**
 
 | Original Card | New Card |
 | ------------- | ------------- |
@@ -65,7 +65,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Sixth Sense |  |
 | Constellation |  |
 | Hiker |  |
-| Faceless Joker | Inga Karkhuul Haw'kohd Dis'nahm Bi'ahni Lawga Ormo Pohmpus Da'nit Ar'edi Iz Khura'in III |
+| Faceless Joker | Inga Karkhuul Khura'in |
 | Green Joker | Green Mode |
 | Superposition |  |
 | To Do List |  |
