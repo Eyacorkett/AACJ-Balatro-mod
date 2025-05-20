@@ -49,7 +49,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Gros Michel |  |
 | Even Steven |  |
 | Odd Todd |  |
-| Scholar |  |
+| Scholar | Wesley Stickler |
 | Business Card |  |
 | Supernova |  |
 | Ride the Bus |  |
@@ -65,8 +65,8 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Sixth Sense |  |
 | Constellation |  |
 | Hiker |  |
-| Faceless Joker |  |
-| Green Joker |  |
+| Faceless Joker | Inga Karkhuul Haw'kohd Dis'nahm Bi'ahni Lawga Ormo Pohmpus Da'nit Ar'edi Iz Khura'in III |
+| Green Joker | Green Mode |
 | Superposition |  |
 | To Do List |  |
 | Cavendish |  |
@@ -86,9 +86,9 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Obelisk |  |
 | Midas Mask |  |
 | Luchador |  |
-| Photograph |  |
+| Photograph | Seal |
 | Gift Card |  |
-| Turtle Bean |  |
+| Turtle Bean | Pea |
 | Erosion |  |
 | Reserved Parking |  |
 | Mail-In Rebate |  |
@@ -101,19 +101,19 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Golden Joker |  |
 | Lucky Cat |  |
 | Baseball Card |  |
-| Bull |  |
+| Bull | Neem |
 | Diet Cola |  |
-| Trading Card |  |
+| Trading Card | Burnout 3 |
 | Flash Card |  |
 | Popcorn |  |
 | Spare Trousers |  |
 | Ancient Joker |  |
-| Ramen |  |
-| Walkie Talkie |  |
+| Ramen | Burgers |
+| Walkie Talkie | Shelly de Killer |
 | Seltzer |  |
 | Castle |  |
 | Smiley Face |  |
-| Campfire |  |
+| Campfire | Meowl |
 | Golden Ticket |  |
 | Mr. Bones |  |
 | Acrobat |  |
@@ -123,8 +123,8 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Certificate |  |
 | Smeared Joker |  |
 | Throwback |  |
-| Hanging Chad |  |
-| Rough Gem |  |
+| Hanging Chad | Calc |
+| Rough Gem | Absolute Cutscene |
 | Bloodstone |  |
 | Arrowhead |  |
 | Onyx Agate |  |
