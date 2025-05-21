@@ -10,10 +10,10 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Original Card | New Card |
 | ------------- | ------------- |
 | Joker |  |
-| Greedy Joker | Thalassa Gramarye (Planned) |
-| Lusty Joker | Valant Gramarye (Planned) |
-| Wrathful Joker | Magnifi Gramarye (Planned) |
-| Gluttonous Joker | Zak Gramarye (Planned) |
+| Greedy Joker | Thalassa Gramarye |
+| Lusty Joker | Valant Gramarye |
+| Wrathful Joker | Magnifi Gramarye |
+| Gluttonous Joker | Zak Gramarye |
 | Jolly Joker |  |
 | Zany Joker |  |
 | Mad Joker |  |
@@ -34,8 +34,8 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Mystic Summit |  |
 | Marble Joker |  |
 | Loyalty Card |  |
-| 8 Ball |  |
-| Misprint | Unfortunate Typo (Not implemented) |
+| 8 Ball | Mudae |
+| Misprint | Unfortunate Typo |
 | Dusk |  |
 | Raised Fist | Objection! |
 | Chaos the Clown | Mencken |
@@ -53,14 +53,14 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Business Card |  |
 | Supernova |  |
 | Ride the Bus |  |
-| Space Joker | It's Fantastic (Not implemented) |
+| Space Joker | It's Fantastic |
 | Egg |  |
 | Burglar |  |
 | Blackboard |  |
 | Runner |  |
 | Ice Cream |  |
 | DNA |  |
-| Splash | @frorf ping role III (Planned) |
+| Splash | @frorf ping role III |
 | Blue Joker |  |
 | Sixth Sense |  |
 | Constellation |  |
@@ -73,15 +73,15 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Card Sharp |  |
 | Red Card |  |
 | Madness |  |
-| Square Joker | Purple Guy (Planned) |
+| Square Joker | Purple Guy |
 | Séance |  |
 | Riff-Raff |  |
 | Vampire |  |
 | Shortcut |  |
-| Hologram | Mood Matrix (Not implemented) |
+| Hologram | Mood Matrix |
 | Vagabond |  |
 | Baron |  |
-| Cloud 9 | 9 Hours, 9 Persons, 9 Doors (Planned) |
+| Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
 | Rocket |  |
 | Obelisk |  |
 | Midas Mask |  |
@@ -93,7 +93,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Reserved Parking |  |
 | Mail-In Rebate |  |
 | To the Moon |  |
-| Hallucination | Hallucination (Not implemented) |
+| Hallucination | Hallucination |
 | Fortune Teller |  |
 | Juggler |  |
 | Drunkard |  |
@@ -112,7 +112,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Walkie Talkie | Shelly de Killer |
 | Seltzer |  |
 | Castle |  |
-| Smiley Face | face_holding_back_tears (Planned) |
+| Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
 | Golden Ticket |  |
 | Mr. Bones |  |
@@ -134,7 +134,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Blueprint |  |
 | Wee Joker |  |
 | Merry Andy |  |
-| Oops! All 6s | Mudae (Not implemented) |
+| Oops! All 6s | Fantastic Six |
 | The Idol |  |
 | Seeing Double |  |
 | Matador |  |
@@ -144,7 +144,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | The Family |  |
 | The Order |  |
 | The Tribe |  |
-| Stuntman | Kasane Pearto (Not implemented) |
+| Stuntman | Kasane Pearto |
 | Invisible Joker |  |
 | Brainstorm |  |
 | Satellite |  |
@@ -154,11 +154,11 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Astronomer |  |
 | Burnt Joker |  |
 | Bootstraps |  |
-| Canio | Duncan Seaman (Planned) |
-| Triboulet | Richard Wellington (Planned) |
-| Yorick | Ginger OC (Planned) |
-| Chicot | Vex Vulper (Planned) |
-| Perkeo | Quercus Alba (Planned) |
+| Canio | Duncan Seaman |
+| Triboulet | Richard Wellington |
+| Yorick | Ginger OC |
+| Chicot | Vex Vulper |
+| Perkeo | Quercus Alba |
 
 ## Labels
 
