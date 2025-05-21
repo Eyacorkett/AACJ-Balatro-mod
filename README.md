@@ -35,7 +35,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Marble Joker |  |
 | Loyalty Card |  |
 | 8 Ball |  |
-| Misprint |  |
+| Misprint | Unfortunate Typo (Not implemented) |
 | Dusk |  |
 | Raised Fist | Objection! |
 | Chaos the Clown | Mencken |
@@ -53,7 +53,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Business Card |  |
 | Supernova |  |
 | Ride the Bus |  |
-| Space Joker |  |
+| Space Joker | It's Fantastic (Not implemented) |
 | Egg |  |
 | Burglar |  |
 | Blackboard |  |
@@ -78,7 +78,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Riff-Raff |  |
 | Vampire |  |
 | Shortcut |  |
-| Hologram |  |
+| Hologram | Mood Matrix (Not implemented) |
 | Vagabond |  |
 | Baron |  |
 | Cloud 9 |  |
@@ -93,7 +93,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Reserved Parking |  |
 | Mail-In Rebate |  |
 | To the Moon |  |
-| Hallucination |  |
+| Hallucination | Hallucination (Not implemented) |
 | Fortune Teller |  |
 | Juggler |  |
 | Drunkard |  |
@@ -134,7 +134,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Blueprint |  |
 | Wee Joker |  |
 | Merry Andy |  |
-| Oops! All 6s |  |
+| Oops! All 6s | Mudae (Not implemented) |
 | The Idol |  |
 | Seeing Double |  |
 | Matador |  |
@@ -144,7 +144,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | The Family |  |
 | The Order |  |
 | The Tribe |  |
-| Stuntman |  |
+| Stuntman | Kasane Pearto (Not implemented) |
 | Invisible Joker |  |
 | Brainstorm |  |
 | Satellite |  |
