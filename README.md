@@ -5,7 +5,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 # Changes
 ## Jokers
 
-**Progress: 14/150**
+**Progress: 45/148**
 
 | Original Card | New Card |
 | ------------- | ------------- |
@@ -132,7 +132,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Showman | Hifumi Yamada |
 | Flower Pot |  |
 | Blueprint |  |
-| Wee Joker |  |
+| Wee Joker | (Unchanged) |
 | Merry Andy |  |
 | Oops! All 6s | Fantastic Six |
 | The Idol |  |
