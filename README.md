@@ -100,7 +100,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Stone Joker |  |
 | Golden Joker |  |
 | Lucky Cat |  |
-| Baseball Card |  |
+| Baseball Card | Jacque Koff |
 | Bull | Neem |
 | Diet Cola |  |
 | Trading Card | Burnout 3 |
