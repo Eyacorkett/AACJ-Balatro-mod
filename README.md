@@ -10,10 +10,10 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Original Card | New Card |
 | ------------- | ------------- |
 | Joker |  |
-| Greedy Joker |  |
-| Lusty Joker |  |
-| Wrathful Joker |  |
-| Gluttonous Joker |  |
+| Greedy Joker | Thalassa Gramarye (Planned) |
+| Lusty Joker | Valant Gramarye (Planned) |
+| Wrathful Joker | Magnifi Gramarye (Planned) |
+| Gluttonous Joker | Zak Gramarye (Planned) |
 | Jolly Joker |  |
 | Zany Joker |  |
 | Mad Joker |  |
@@ -60,7 +60,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Runner |  |
 | Ice Cream |  |
 | DNA |  |
-| Splash |  |
+| Splash | @frorf ping role III (Planned) |
 | Blue Joker |  |
 | Sixth Sense |  |
 | Constellation |  |
@@ -73,7 +73,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Card Sharp |  |
 | Red Card |  |
 | Madness |  |
-| Square Joker |  |
+| Square Joker | Purple Guy (Planned) |
 | Séance |  |
 | Riff-Raff |  |
 | Vampire |  |
@@ -81,7 +81,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Hologram | Mood Matrix (Not implemented) |
 | Vagabond |  |
 | Baron |  |
-| Cloud 9 |  |
+| Cloud 9 | 9 Hours, 9 Persons, 9 Doors (Planned) |
 | Rocket |  |
 | Obelisk |  |
 | Midas Mask |  |
@@ -112,7 +112,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Walkie Talkie | Shelly de Killer |
 | Seltzer |  |
 | Castle |  |
-| Smiley Face |  |
+| Smiley Face | face_holding_back_tears (Planned) |
 | Campfire | Meowl |
 | Golden Ticket |  |
 | Mr. Bones |  |
@@ -154,11 +154,11 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Astronomer |  |
 | Burnt Joker |  |
 | Bootstraps |  |
-| Canio |  |
-| Triboulet |  |
-| Yorick |  |
-| Chicot |  |
-| Perkeo |  |
+| Canio | Duncan Seaman (Planned) |
+| Triboulet | Richard Wellington (Planned) |
+| Yorick | Ginger OC (Planned) |
+| Chicot | Vex Vulper (Planned) |
+| Perkeo | Quercus Alba (Planned) |
 
 ## Labels
 
