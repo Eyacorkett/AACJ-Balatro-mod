@@ -127,7 +127,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Rough Gem | Absolute Cutscene |
 | Bloodstone |  |
 | Arrowhead |  |
-| Onyx Agate |  |
+| Onyx Agate | July (Planned) |
 | Glass Joker |  |
 | Showman | Hifumi Yamada |
 | Flower Pot | Troupe Gramarye (Planned) |
