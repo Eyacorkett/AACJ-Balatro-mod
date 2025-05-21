@@ -30,18 +30,18 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Mime |  |
 | Credit Card |  |
 | Ceremonial Dagger |  |
-| Banner | Celeste McCoy Flag (Planned) |
-| Mystic Summit |  |
+| Banner | Celeste McCoy Flag |
+| Mystic Summit | Peter Griffin |
 | Marble Joker |  |
 | Loyalty Card |  |
 | 8 Ball | Mudae |
 | Misprint | Unfortunate Typo |
-| Dusk | Sebastian Debeste (Planned) |
+| Dusk | Sebastian Debeste |
 | Raised Fist | Objection! |
 | Chaos the Clown | Mencken |
-| Fibonacci |  |
+| Fibonacci | Jakkid166 |
 | Steel Joker |  |
-| Scary Face |  |
+| Scary Face | Mario |
 | Abstract Joker |  |
 | Delayed Gratification |  |
 | Hack | You're a Goner! |
@@ -55,11 +55,11 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Ride the Bus |  |
 | Space Joker | It's Fantastic |
 | Egg |  |
-| Burglar |  |
+| Burglar | Maya Plush |
 | Blackboard |  |
 | Runner |  |
 | Ice Cream |  |
-| DNA | Yggdrasil (Planned) |
+| DNA | Yggdrasil |
 | Splash | @frorf ping role III |
 | Blue Joker |  |
 | Sixth Sense |  |
@@ -70,9 +70,9 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Superposition |  |
 | To Do List |  |
 | Cavendish | Collin Aries Ver. 2.0 |
-| Card Sharp | Ema Skye (Planned) |
+| Card Sharp | Ema Skye |
 | Red Card |  |
-| Madness |  |
+| Madness | Deid Mann |
 | Square Joker | Purple Guy |
 | Séance | Divination Séance |
 | Riff-Raff |  |
@@ -85,7 +85,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Rocket |  |
 | Obelisk |  |
 | Midas Mask |  |
-| Luchador |  |
+| Luchador | Hot Purple Pikmin |
 | Photograph | Seal |
 | Gift Card |  |
 | Turtle Bean | Pea |
@@ -99,7 +99,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Drunkard |  |
 | Stone Joker |  |
 | Golden Joker |  |
-| Lucky Cat |  |
+| Lucky Cat | Neco-Arc |
 | Baseball Card | Jacque Koff |
 | Bull | Neem |
 | Diet Cola | John Marsh's Milk |
@@ -107,7 +107,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Flash Card |  |
 | Popcorn | MEE6 |
 | Spare Trousers |  |
-| Ancient Joker |  |
+| Ancient Joker | Protagonist (AAI0) |
 | Ramen | Burgers |
 | Walkie Talkie | Shelly de Killer |
 | Seltzer |  |
@@ -118,19 +118,19 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Mr. Bones | Takeshi Yamazaki |
 | Acrobat |  |
 | Sock and Buskin |  |
-| Swashbuckler |  |
+| Swashbuckler | Nekotina |
 | Troubadour | Hervis Daubeny |
 | Certificate |  |
-| Smeared Joker | The Great Mr. Reus (Planned) |
-| Throwback | Meowl's Dog (Planned) |
+| Smeared Joker | The Great Mr. Reus |
+| Throwback | Meowl's Dog |
 | Hanging Chad | Calc |
 | Rough Gem | Absolute Cutscene |
-| Bloodstone |  |
-| Arrowhead |  |
-| Onyx Agate | July (Planned) |
+| Bloodstone | Grug |
+| Arrowhead | Zoo-Wee Mama! |
+| Onyx Agate | July |
 | Glass Joker |  |
 | Showman | Hifumi Yamada |
-| Flower Pot | Troupe Gramarye (Planned) |
+| Flower Pot | The Troupe's Legacy |
 | Blueprint |  |
 | Wee Joker | (Unchanged) |
 | Merry Andy |  |
@@ -139,7 +139,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Seeing Double |  |
 | Matador |  |
 | Hit the Road | Jacking Off (Planned) |
-| The Duo | Bonny & Betty (Planned) |
+| The Duo | Bonny & Betty |
 | The Trio | Turnabout Academy Cult (Planned) |
 | The Family | Uendo Toneido (Planned) |
 | The Order |  |
