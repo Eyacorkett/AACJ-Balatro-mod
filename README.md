@@ -9,7 +9,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 
 | Original Card | New Card |
 | ------------- | ------------- |
-| Joker |  |
+| Joker | (Unchanged) |
 | Greedy Joker | Thalassa Gramarye |
 | Lusty Joker | Valant Gramarye |
 | Wrathful Joker | Magnifi Gramarye |
@@ -24,7 +24,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Clever Joker |  |
 | Devious Joker |  |
 | Crafty Joker |  |
-| Half Joker |  |
+| Half Joker | Erasing Evidence |
 | Joker Stencil |  |
 | Four Fingers |  |
 | Mime |  |
@@ -44,9 +44,9 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Scary Face |  |
 | Abstract Joker |  |
 | Delayed Gratification |  |
-| Hack |  |
+| Hack | You're a Goner! |
 | Pareidolia |  |
-| Gros Michel |  |
+| Gros Michel | Collin Aries |
 | Even Steven |  |
 | Odd Todd |  |
 | Scholar | Wesley Stickler |
@@ -69,12 +69,12 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Green Joker | Green Mode |
 | Superposition |  |
 | To Do List |  |
-| Cavendish |  |
+| Cavendish | Collin Aries Ver. 2.0 |
 | Card Sharp |  |
 | Red Card |  |
 | Madness |  |
 | Square Joker | Purple Guy |
-| Séance |  |
+| Séance | Divination Séance |
 | Riff-Raff |  |
 | Vampire |  |
 | Shortcut |  |
@@ -102,10 +102,10 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Lucky Cat |  |
 | Baseball Card | Jacque Koff |
 | Bull | Neem |
-| Diet Cola |  |
+| Diet Cola | John Marsh's Milk |
 | Trading Card | Burnout 3 |
 | Flash Card |  |
-| Popcorn |  |
+| Popcorn | MEE6 |
 | Spare Trousers |  |
 | Ancient Joker |  |
 | Ramen | Burgers |
@@ -115,11 +115,11 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
 | Golden Ticket |  |
-| Mr. Bones |  |
+| Mr. Bones | Takeshi Yamazaki |
 | Acrobat |  |
 | Sock and Buskin |  |
 | Swashbuckler |  |
-| Troubadour |  |
+| Troubadour | Hervis Daubeny |
 | Certificate |  |
 | Smeared Joker |  |
 | Throwback |  |
@@ -129,7 +129,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Arrowhead |  |
 | Onyx Agate |  |
 | Glass Joker |  |
-| Showman |  |
+| Showman | Hifumi Yamada |
 | Flower Pot |  |
 | Blueprint |  |
 | Wee Joker |  |
