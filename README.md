@@ -30,13 +30,13 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Mime |  |
 | Credit Card |  |
 | Ceremonial Dagger |  |
-| Banner |  |
+| Banner | Celeste McCoy Flag (Planned) |
 | Mystic Summit |  |
 | Marble Joker |  |
 | Loyalty Card |  |
 | 8 Ball | Mudae |
 | Misprint | Unfortunate Typo |
-| Dusk |  |
+| Dusk | Sebastian Debeste (Planned) |
 | Raised Fist | Objection! |
 | Chaos the Clown | Mencken |
 | Fibonacci |  |
@@ -70,7 +70,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Superposition |  |
 | To Do List |  |
 | Cavendish | Collin Aries Ver. 2.0 |
-| Card Sharp |  |
+| Card Sharp | Ema Skye (Planned) |
 | Red Card |  |
 | Madness |  |
 | Square Joker | Purple Guy |
@@ -121,8 +121,8 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Swashbuckler |  |
 | Troubadour | Hervis Daubeny |
 | Certificate |  |
-| Smeared Joker |  |
-| Throwback |  |
+| Smeared Joker | The Great Mr. Reus (Planned) |
+| Throwback | Meowl's Dog (Planned) |
 | Hanging Chad | Calc |
 | Rough Gem | Absolute Cutscene |
 | Bloodstone |  |
@@ -130,7 +130,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Onyx Agate |  |
 | Glass Joker |  |
 | Showman | Hifumi Yamada |
-| Flower Pot |  |
+| Flower Pot | Troupe Gramarye (Planned) |
 | Blueprint |  |
 | Wee Joker | (Unchanged) |
 | Merry Andy |  |
@@ -138,10 +138,10 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | The Idol |  |
 | Seeing Double |  |
 | Matador |  |
-| Hit the Road |  |
-| The Duo |  |
-| The Trio |  |
-| The Family |  |
+| Hit the Road | Jacking Off (Planned) |
+| The Duo | Bonny & Betty (Planned) |
+| The Trio | Turnabout Academy Cult (Planned) |
+| The Family | Uendo Toneido (Planned) |
 | The Order |  |
 | The Tribe |  |
 | Stuntman | Kasane Pearto |
