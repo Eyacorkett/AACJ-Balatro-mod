@@ -82,7 +82,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Vagabond |  |
 | Baron | Damon Gant |
 | Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
-| Rocket |  |
+| Rocket | Turnabout of the Snow |
 | Obelisk |  |
 | Midas Mask |  |
 | Luchador | Hot Purple Pikmin |
