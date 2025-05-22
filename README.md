@@ -9,7 +9,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 
 | Original Card | New Card |
 | ------------- | ------------- |
-| Joker | (Unchanged) |
+| Joker | Jimbo (Image Unchanged) |
 | Greedy Joker | Thalassa Gramarye |
 | Lusty Joker | Valant Gramarye |
 | Wrathful Joker | Magnifi Gramarye |
@@ -23,11 +23,11 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Wily Joker |  |
 | Clever Joker |  |
 | Devious Joker |  |
-| Crafty Joker |  |
+| Crafty Joker | Minecraft Steve |
 | Half Joker | Erasing Evidence |
 | Joker Stencil |  |
-| Four Fingers |  |
-| Mime |  |
+| Four Fingers | Loss |
+| Mime | Agatha Christie |
 | Credit Card |  |
 | Ceremonial Dagger |  |
 | Banner | Celeste McCoy Flag |
@@ -43,7 +43,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Steel Joker |  |
 | Scary Face | Mario |
 | Abstract Joker |  |
-| Delayed Gratification |  |
+| Delayed Gratification | Alex Eeggleston |
 | Hack | You're a Goner! |
 | Pareidolia |  |
 | Gros Michel | Collin Aries |
@@ -64,7 +64,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Blue Joker |  |
 | Sixth Sense |  |
 | Constellation |  |
-| Hiker |  |
+| Hiker | Crazy Cattle 3D |
 | Faceless Joker | Inga Karkhuul Khura'in |
 | Green Joker | Green Mode |
 | Superposition |  |
@@ -75,12 +75,12 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Madness | Deid Mann |
 | Square Joker | Purple Guy |
 | Séance | Divination Séance |
-| Riff-Raff |  |
+| Riff-Raff | Aristotle Means |
 | Vampire |  |
 | Shortcut |  |
 | Hologram | Mood Matrix |
 | Vagabond |  |
-| Baron |  |
+| Baron | Damon Gant |
 | Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
 | Rocket |  |
 | Obelisk |  |
@@ -89,7 +89,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Photograph | Seal |
 | Gift Card |  |
 | Turtle Bean | Pea |
-| Erosion |  |
+| Erosion | Stretched Shuichi |
 | Reserved Parking |  |
 | Mail-In Rebate |  |
 | To the Moon |  |
@@ -132,8 +132,8 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Showman | Hifumi Yamada |
 | Flower Pot | The Troupe's Legacy |
 | Blueprint |  |
-| Wee Joker | (Unchanged) |
-| Merry Andy |  |
+| Wee Joker | Glue Joker (Image Unchanged) |
+| Merry Andy | Crythena |
 | Oops! All 6s | Fantastic Six |
 | The Idol |  |
 | Seeing Double |  |
@@ -153,7 +153,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Cartomancer |  |
 | Astronomer |  |
 | Burnt Joker |  |
-| Bootstraps |  |
+| Bootstraps | Prick Gumshoe |
 | Canio | Duncan Seaman |
 | Triboulet | Richard Wellington |
 | Yorick | Ginger OC |
