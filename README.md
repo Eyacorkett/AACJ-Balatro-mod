@@ -5,7 +5,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 # Changes
 ## Jokers
 
-**Progress: 45/148**
+**Progress: 77/150**
 
 | Original Card | New Card |
 | ------------- | ------------- |
@@ -29,7 +29,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Four Fingers | Loss |
 | Mime | Agatha Christie |
 | Credit Card |  |
-| Ceremonial Dagger |  |
+| Ceremonial Dagger | Hunger Games |
 | Banner | Celeste McCoy Flag |
 | Mystic Summit | Peter Griffin |
 | Marble Joker |  |
@@ -45,7 +45,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Abstract Joker |  |
 | Delayed Gratification | Alex Eeggleston |
 | Hack | You're a Goner! |
-| Pareidolia |  |
+| Pareidolia | \*Tips Samurai* |
 | Gros Michel | Collin Aries |
 | Even Steven |  |
 | Odd Todd |  |
@@ -58,10 +58,10 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Burglar | Maya Plush |
 | Blackboard |  |
 | Runner |  |
-| Ice Cream |  |
+| Ice Cream | AotA |
 | DNA | Yggdrasil |
 | Splash | @frorf ping role III |
-| Blue Joker |  |
+| Blue Joker | Plush Goodra |
 | Sixth Sense |  |
 | Constellation |  |
 | Hiker | Crazy Cattle 3D |
@@ -76,14 +76,14 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Square Joker | Purple Guy |
 | Séance | Divination Séance |
 | Riff-Raff | Aristotle Means |
-| Vampire |  |
+| Vampire | Grick |
 | Shortcut |  |
 | Hologram | Mood Matrix |
 | Vagabond |  |
 | Baron | Damon Gant |
 | Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
 | Rocket | Turnabout of the Snow |
-| Obelisk |  |
+| Obelisk | BananaFries |
 | Midas Mask |  |
 | Luchador | Hot Purple Pikmin |
 | Photograph | Seal |
@@ -110,7 +110,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Ancient Joker | Protagonist (AAI0) |
 | Ramen | Burgers |
 | Walkie Talkie | Shelly de Killer |
-| Seltzer |  |
+| Seltzer | Kay Faraday |
 | Castle |  |
 | Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
@@ -131,7 +131,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Glass Joker |  |
 | Showman | Hifumi Yamada |
 | Flower Pot | The Troupe's Legacy |
-| Blueprint |  |
+| Blueprint | *Use BlueStorm Mod* |
 | Wee Joker | Glue Joker (Image Unchanged) |
 | Merry Andy | Crythena |
 | Oops! All 6s | Fantastic Six |
@@ -146,7 +146,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | The Tribe |  |
 | Stuntman | Kasane Pearto |
 | Invisible Joker |  |
-| Brainstorm |  |
+| Brainstorm | *Use BlueStorm Mod* |
 | Satellite |  |
 | Shoot the Moon |  |
 | Driver's License |  |
