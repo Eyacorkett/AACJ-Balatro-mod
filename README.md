@@ -1,11 +1,11 @@
-This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community.
+This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community. Meant to be used alongside with [BlueStorm](https://balatromods.miraheze.org/wiki/BlueStorm).
 
 Download the mod by pressing the green "Code" button, then pressing "Download ZIP".
 
 # Changes
 ## Jokers
 
-**Progress: 90/150**
+**Progress: 91/150**
 
 | Original Card | New Card |
 | ------------- | ------------- |
@@ -86,7 +86,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Obelisk | BananaFries |
 | Midas Mask |  |
 | Luchador | Hot Purple Pikmin |
-| Photograph | Seal |
+| Photograph | Video Game About Depression |
 | Gift Card |  |
 | Turtle Bean | Pea |
 | Erosion | Stretched Shuichi |
@@ -120,7 +120,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Sock and Buskin |  |
 | Swashbuckler | Nekotina |
 | Troubadour | Hervis Daubeny |
-| Certificate |  |
+| Certificate | Seal |
 | Smeared Joker | The Great Mr. Reus |
 | Throwback | Meowl's Dog |
 | Hanging Chad | Calc |
