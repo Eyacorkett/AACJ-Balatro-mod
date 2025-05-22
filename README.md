@@ -5,7 +5,7 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 # Changes
 ## Jokers
 
-**Progress: 77/150**
+**Progress: 90/150**
 
 | Original Card | New Card |
 | ------------- | ------------- |
