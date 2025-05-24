@@ -1,17 +1,15 @@
-This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community. Meant to be used alongside with [BlueStorm](https://balatromods.miraheze.org/wiki/BlueStorm).
+This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community.
 
 Download the mod by pressing the green "Code" button, then pressing "Download ZIP".
-
-Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ Discord server who suggested ideas for cards!
 
 # Changes
 ## Jokers
 
-**Progress: 91/150**
+**Progress: 45/148**
 
 | Original Card | New Card |
 | ------------- | ------------- |
-| Joker | Jimbo (Image Unchanged) |
+| Joker | (Unchanged) |
 | Greedy Joker | Thalassa Gramarye |
 | Lusty Joker | Valant Gramarye |
 | Wrathful Joker | Magnifi Gramarye |
@@ -25,13 +23,13 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Wily Joker |  |
 | Clever Joker |  |
 | Devious Joker |  |
-| Crafty Joker | Minecraft Steve |
+| Crafty Joker |  |
 | Half Joker | Erasing Evidence |
 | Joker Stencil |  |
-| Four Fingers | Loss |
-| Mime | Agatha Christie |
+| Four Fingers |  |
+| Mime |  |
 | Credit Card |  |
-| Ceremonial Dagger | Hunger Games |
+| Ceremonial Dagger |  |
 | Banner | Celeste McCoy Flag |
 | Mystic Summit | Peter Griffin |
 | Marble Joker |  |
@@ -45,9 +43,9 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Steel Joker |  |
 | Scary Face | Mario |
 | Abstract Joker |  |
-| Delayed Gratification | Alex Eeggleston |
+| Delayed Gratification |  |
 | Hack | You're a Goner! |
-| Pareidolia | \*Tips Samurai* |
+| Pareidolia |  |
 | Gros Michel | Collin Aries |
 | Even Steven |  |
 | Odd Todd |  |
@@ -60,13 +58,13 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Burglar | Maya Plush |
 | Blackboard |  |
 | Runner |  |
-| Ice Cream | AotA |
+| Ice Cream |  |
 | DNA | Yggdrasil |
 | Splash | @frorf ping role III |
-| Blue Joker | Plush Goodra |
+| Blue Joker |  |
 | Sixth Sense |  |
 | Constellation |  |
-| Hiker | Crazy Cattle 3D |
+| Hiker |  |
 | Faceless Joker | Inga Karkhuul Khura'in |
 | Green Joker | Green Mode |
 | Superposition |  |
@@ -77,21 +75,21 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Madness | Deid Mann |
 | Square Joker | Purple Guy |
 | Séance | Divination Séance |
-| Riff-Raff | Aristotle Means |
-| Vampire | Grick |
+| Riff-Raff |  |
+| Vampire |  |
 | Shortcut |  |
 | Hologram | Mood Matrix |
 | Vagabond |  |
-| Baron | Damon Gant |
+| Baron |  |
 | Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
-| Rocket | Turnabout of the Snow |
-| Obelisk | BananaFries |
+| Rocket |  |
+| Obelisk |  |
 | Midas Mask |  |
 | Luchador | Hot Purple Pikmin |
-| Photograph | Video Game About Depression |
+| Photograph | Seal |
 | Gift Card |  |
 | Turtle Bean | Pea |
-| Erosion | Stretched Shuichi |
+| Erosion |  |
 | Reserved Parking |  |
 | Mail-In Rebate |  |
 | To the Moon |  |
@@ -112,7 +110,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Ancient Joker | Protagonist (AAI0) |
 | Ramen | Burgers |
 | Walkie Talkie | Shelly de Killer |
-| Seltzer | Kay Faraday |
+| Seltzer |  |
 | Castle |  |
 | Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
@@ -122,7 +120,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Sock and Buskin |  |
 | Swashbuckler | Nekotina |
 | Troubadour | Hervis Daubeny |
-| Certificate | Seal |
+| Certificate |  |
 | Smeared Joker | The Great Mr. Reus |
 | Throwback | Meowl's Dog |
 | Hanging Chad | Calc |
@@ -133,9 +131,9 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Glass Joker |  |
 | Showman | Hifumi Yamada |
 | Flower Pot | The Troupe's Legacy |
-| Blueprint | *Use BlueStorm Mod* |
-| Wee Joker | Glue Joker (Image Unchanged) |
-| Merry Andy | Crythena |
+| Blueprint |  |
+| Wee Joker | (Unchanged) |
+| Merry Andy |  |
 | Oops! All 6s | Fantastic Six |
 | The Idol |  |
 | Seeing Double |  |
@@ -148,14 +146,14 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | The Tribe |  |
 | Stuntman | Kasane Pearto |
 | Invisible Joker |  |
-| Brainstorm | *Use BlueStorm Mod* |
+| Brainstorm |  |
 | Satellite |  |
 | Shoot the Moon |  |
 | Driver's License |  |
 | Cartomancer |  |
 | Astronomer |  |
 | Burnt Joker |  |
-| Bootstraps | Prick Gumshoe |
+| Bootstraps |  |
 | Canio | Duncan Seaman |
 | Triboulet | Richard Wellington |
 | Yorick | Ginger OC |

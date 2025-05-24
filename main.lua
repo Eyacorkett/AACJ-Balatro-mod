@@ -1,20 +1,31 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: The AACJ Mod
 --- MOD_ID: AACJ
+--- PREFIX: AACJ
 --- MOD_AUTHOR: [Eyac]
 --- MOD_DESCRIPTION: A retexture mod replacing stuff with AACJ references!
+--- DEPENDENCIES: [malverk]
 
-----------------------------------------------
-------------MOD CODE -------------------------
+AltTexture{
+	key = 'aacj',
+	set = 'Joker',
+	path = 'Jokers.png',
+	localization = true
+}
 
-function SMODS.INIT.TexturePackTemplate()
-    sendDebugMessage("Launching Texture Pack Template!")
+AltTexture{
+	key = 'wee',
+	set = 'Joker',
+	path = 'WeeGlue.png',
+	keys = {
+		"j_wee"
+	}
+}
 
-    local tpt_mod = SMODS.findModByID("AACJ")
-    local sprite_jkr = SMODS.Sprite:new("Joker", tpt_mod.path, "Jokers.png", 71, 95, "asset_atli")
-    
-    sprite_jkr:register()
-end
-
-----------------------------------------------
-------------MOD CODE END----------------------
+TexturePack{
+    key = 'aacj',
+    textures = {
+        'AACJ_aacj',
+		'AACJ_wee'
+    },
+}
