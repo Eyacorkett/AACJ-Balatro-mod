@@ -1,11 +1,11 @@
-This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community.
+This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community. Meant to be used alongside with [BlueStorm](https://balatromods.miraheze.org/wiki/BlueStorm).
 
 Download the mod by pressing the green "Code" button, then pressing "Download ZIP".
 
 # Changes
 ## Jokers
 
-**Progress: 45/148**
+**Progress: 133/146**
 
 | Original Card | New Card |
 | ------------- | ------------- |
