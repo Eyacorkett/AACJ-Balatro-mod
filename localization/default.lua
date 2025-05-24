@@ -81,7 +81,7 @@ return {
             common = "Lame",
             uncommon = "Cool",
             rare = "Epic",
-            legendary = "Alba"
+            legendary = "God-tier"
         },
         
         dictionary = {
