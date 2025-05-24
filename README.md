@@ -2,6 +2,8 @@ This WIP mod for Balatro replaces elements of the game with stuff (sometimes onl
 
 Download the mod by pressing the green "Code" button, then pressing "Download ZIP".
 
+Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ Discord server who suggested ideas for cards!
+
 # Changes
 ## Jokers
 
