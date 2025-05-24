@@ -9,31 +9,31 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 
 | Original Card | New Card |
 | ------------- | ------------- |
-| Joker | (Unchanged) |
+| Joker | Jimbo (Art unchanged) |
 | Greedy Joker | Thalassa Gramarye |
 | Lusty Joker | Valant Gramarye |
 | Wrathful Joker | Magnifi Gramarye |
 | Gluttonous Joker | Zak Gramarye |
-| Jolly Joker |  |
-| Zany Joker |  |
-| Mad Joker |  |
-| Crazy Joker |  |
-| Droll Joker |  |
-| Sly Joker |  |
-| Wily Joker |  |
-| Clever Joker |  |
+| Jolly Joker | Rodrigo Starwalker |
+| Zany Joker | Marie |
+| Mad Joker | Saber |
+| Crazy Joker | Herlock Sholmes |
+| Droll Joker | Roger Retinz |
+| Sly Joker | Freaky Vex Vulper |
+| Wily Joker | Dog Race |
+| Clever Joker | Ladder |
 | Devious Joker |  |
-| Crafty Joker |  |
+| Crafty Joker | Minecraft Steve |
 | Half Joker | Erasing Evidence |
-| Joker Stencil |  |
-| Four Fingers |  |
-| Mime |  |
-| Credit Card |  |
-| Ceremonial Dagger |  |
+| Joker Stencil | House, M.D. |
+| Four Fingers | Loss |
+| Mime | Agatha Christie |
+| Credit Card | Republic of Borginia |
+| Ceremonial Dagger | Hunger Games |
 | Banner | Celeste McCoy Flag |
 | Mystic Summit | Peter Griffin |
 | Marble Joker |  |
-| Loyalty Card |  |
+| Loyalty Card | Danganronpa: Trigger Happy Havoc |
 | 8 Ball | Mudae |
 | Misprint | Unfortunate Typo |
 | Dusk | Sebastian Debeste |
@@ -42,85 +42,85 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Fibonacci | Jakkid166 |
 | Steel Joker |  |
 | Scary Face | Mario |
-| Abstract Joker |  |
-| Delayed Gratification |  |
+| Abstract Joker | Saul Goodman |
+| Delayed Gratification | Alex Eggleston |
 | Hack | You're a Goner! |
-| Pareidolia |  |
+| Pareidolia | Larry Butz |
 | Gros Michel | Collin Aries |
-| Even Steven |  |
-| Odd Todd |  |
+| Even Steven | Metis Cookie |
+| Odd Todd | Aura Cookie |
 | Scholar | Wesley Stickler |
-| Business Card |  |
-| Supernova |  |
-| Ride the Bus |  |
+| Business Card | Maya's Card |
+| Supernova | Ryunosuke's Death |
+| Ride the Bus | Mitchell Shepherd |
 | Space Joker | It's Fantastic |
-| Egg |  |
+| Egg | Garfield Kart |
 | Burglar | Maya Plush |
 | Blackboard |  |
-| Runner |  |
-| Ice Cream |  |
+| Runner | Cove Holden |
+| Ice Cream | AotA |
 | DNA | Yggdrasil |
 | Splash | @frorf ping role III |
-| Blue Joker |  |
-| Sixth Sense |  |
+| Blue Joker | Goodra Plush |
+| Sixth Sense | Orga Orly |
 | Constellation |  |
-| Hiker |  |
+| Hiker | Crazy Cattle 3D |
 | Faceless Joker | Inga Karkhuul Khura'in |
 | Green Joker | Green Mode |
-| Superposition |  |
-| To Do List |  |
+| Superposition | Shu Takumi |
+| To Do List | Molars |
 | Cavendish | Collin Aries Ver. 2.0 |
 | Card Sharp | Ema Skye |
-| Red Card |  |
+| Red Card | *Unchanged* |
 | Madness | Deid Mann |
 | Square Joker | Purple Guy |
 | Séance | Divination Séance |
-| Riff-Raff |  |
-| Vampire |  |
-| Shortcut |  |
+| Riff-Raff | Aristotle Means |
+| Vampire | Grick |
+| Shortcut | Jove Justice |
 | Hologram | Mood Matrix |
-| Vagabond |  |
-| Baron |  |
+| Vagabond | Dick Gumshoe |
+| Baron | Damon Gant |
 | Cloud 9 | 9 Hours, 9 Persons, 9 Doors |
-| Rocket |  |
-| Obelisk |  |
-| Midas Mask |  |
+| Rocket | Turnabout of the Snow |
+| Obelisk | Bananafries |
+| Midas Mask | Paul Atishon |
 | Luchador | Hot Purple Pikmin |
-| Photograph | Seal |
+| Photograph | Omori |
 | Gift Card |  |
 | Turtle Bean | Pea |
-| Erosion |  |
-| Reserved Parking |  |
-| Mail-In Rebate |  |
-| To the Moon |  |
+| Erosion | Stretched Shuichi |
+| Reserved Parking | Gartic Phone |
+| Mail-In Rebate | Celeste McCoy |
+| To the Moon | Bald Teto |
 | Hallucination | Hallucination |
-| Fortune Teller |  |
-| Juggler |  |
+| Fortune Teller | Uendo Toneido |
+| Juggler | Ragna the Bloodedge |
 | Drunkard |  |
-| Stone Joker |  |
+| Stone Joker | Hideo Kojima |
 | Golden Joker |  |
 | Lucky Cat | Neco-Arc |
 | Baseball Card | Jacque Koff |
 | Bull | Neem |
 | Diet Cola | John Marsh's Milk |
 | Trading Card | Burnout 3 |
-| Flash Card |  |
+| Flash Card | Shoe |
 | Popcorn | MEE6 |
-| Spare Trousers |  |
+| Spare Trousers | Magolor |
 | Ancient Joker | Protagonist (AAI0) |
 | Ramen | Burgers |
 | Walkie Talkie | Shelly de Killer |
-| Seltzer |  |
+| Seltzer | Kay Faraday |
 | Castle |  |
 | Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
-| Golden Ticket |  |
+| Golden Ticket | 逆転裁判 |
 | Mr. Bones | Takeshi Yamazaki |
-| Acrobat |  |
-| Sock and Buskin |  |
+| Acrobat | Freaky Simon Keyes |
+| Sock and Buskin | Monokuma |
 | Swashbuckler | Nekotina |
 | Troubadour | Hervis Daubeny |
-| Certificate |  |
+| Certificate | Seal |
 | Smeared Joker | The Great Mr. Reus |
 | Throwback | Meowl's Dog |
 | Hanging Chad | Calc |
@@ -128,32 +128,32 @@ Download the mod by pressing the green "Code" button, then pressing "Download ZI
 | Bloodstone | Grug |
 | Arrowhead | Zoo-Wee Mama! |
 | Onyx Agate | July |
-| Glass Joker |  |
+| Glass Joker | Tupperbot |
 | Showman | Hifumi Yamada |
 | Flower Pot | The Troupe's Legacy |
-| Blueprint |  |
-| Wee Joker | (Unchanged) |
-| Merry Andy |  |
+| Blueprint | *Unchanged, use Bluestorm* |
+| Wee Joker | Glue Joker |
+| Merry Andy | Crythena |
 | Oops! All 6s | Fantastic Six |
-| The Idol |  |
-| Seeing Double |  |
-| Matador |  |
+| The Idol | Tohru Adachi |
+| Seeing Double | PyWright |
+| Matador | Fiftyset |
 | Hit the Road | Jacking Off (Planned) |
 | The Duo | Bonny & Betty |
-| The Trio | Turnabout Academy Cult (Planned) |
-| The Family | Uendo Toneido (Planned) |
+| The Trio | Turnabout Academy |
+| The Family | Colias Palaeno |
 | The Order |  |
 | The Tribe |  |
 | Stuntman | Kasane Pearto |
 | Invisible Joker |  |
-| Brainstorm |  |
+| Brainstorm | *Unchanged, use Bluestorm* |
 | Satellite |  |
-| Shoot the Moon |  |
-| Driver's License |  |
-| Cartomancer |  |
+| Shoot the Moon | Emilia |
+| Driver's License | Apollo's Crotch |
+| Cartomancer | David Tennant |
 | Astronomer |  |
-| Burnt Joker |  |
-| Bootstraps |  |
+| Burnt Joker | Party in the C.I.A. |
+| Bootstraps | Prick Gumshoe |
 | Canio | Duncan Seaman |
 | Triboulet | Richard Wellington |
 | Yorick | Ginger OC |
