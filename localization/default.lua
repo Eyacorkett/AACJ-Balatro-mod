@@ -616,14 +616,14 @@ return {
     
     misc = {
         poker_hands = {
-            ['Flush Five'] = "Flush Five",
-            ['Flush House'] = "Flush House",
+            ['Flush Five'] = "Skibidi Five",
+            ['Flush House'] = "Skibidi Boob House",
             ['Five of a Kind'] = "Rise from the Ashes",
-            ['Royal Flush'] = "Royal Flush",
+            ['Royal Flush'] = "Royal Skibidi",
             ['Straight Flush'] = "Bi-Curious",
             ['Four of a Kind'] = "Turnabout Storyteller",
             ['Full House'] = "Boob House",
-            ['Flush'] = "Flush",
+            ['Flush'] = "Skibidi Toilet",
             ['Straight'] = "Gay",
             ['Three of a Kind'] = "Turnabout Academy",
             ['Two Pair'] = "Two Pears",
