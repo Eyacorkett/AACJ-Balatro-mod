@@ -616,9 +616,19 @@ return {
     
     misc = {
         poker_hands = {
-            ["Full House"] = 'Boob House',
-            ["Straight Flush"] = 'Bi-Curious',
-            ["Straight"] = 'Gay',
+            ['Flush Five'] = "Flush Five",
+            ['Flush House'] = "Flush House",
+            ['Five of a Kind'] = "Turnabout for Tomorrow",
+            ['Royal Flush'] = "Royal Flush",
+            ['Straight Flush'] = "Bi-Curious",
+            ['Four of a Kind'] = "The Cosmic Turnabout",
+            ['Full House'] = "Boob House",
+            ['Flush'] = "Flush",
+            ['Straight'] = "Gay",
+            ['Three of a Kind'] = "Turnabout Academy",
+            ['Two Pair'] = "Two Pears",
+            ['Pair'] = "Pear",
+            ['High Card'] = "Juniper Weeds",
         },
         
         labels = {
