@@ -343,7 +343,7 @@ return {
 				},
 				
 			j_fortune_teller = {
-					name = "Uendo Toneido"
+					name = "Uendo System"
 				},
 				
 			j_juggler = {
