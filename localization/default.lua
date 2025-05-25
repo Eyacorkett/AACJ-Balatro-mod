@@ -215,7 +215,7 @@ return {
 				},
 				
 			j_sixth_sense = {
-					name = "Orga Orly"
+					name = "Olga Orly"
 				},
 				
 			j_constellation = {
