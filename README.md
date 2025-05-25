@@ -11,6 +11,9 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 # To-do list
 * Swap _Uendo System_ and _Colias Palaeno_'s cards
 * Make the image of _Ryunosuke's Death_ more clear
+* Change _Red Card_ to something else (probably Weezer)
+* Change the text on the God-tier/Legendary cards
+* Change 1.5 into (10 x 15%)
 * General card touch-ups
 
 # Changes
