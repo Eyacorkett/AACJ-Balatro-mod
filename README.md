@@ -24,7 +24,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Sly Joker | Freaky Vex Vulper |
 | Wily Joker | Dog Race |
 | Clever Joker | Ladder |
-| Devious Joker |  |
+| Devious Joker | Horse |
 | Crafty Joker | Minecraft Steve |
 | Half Joker | Erasing Evidence |
 | Joker Stencil | House, M.D. |
@@ -34,7 +34,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Ceremonial Dagger | Hunger Games |
 | Banner | Celeste McCoy Flag |
 | Mystic Summit | Peter Griffin |
-| Marble Joker |  |
+| Marble Joker | Whax Apper |
 | Loyalty Card | Danganronpa: Trigger Happy Havoc |
 | 8 Ball | Mudae |
 | Misprint | Unfortunate Typo |
@@ -42,7 +42,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Raised Fist | Objection! |
 | Chaos the Clown | Mencken |
 | Fibonacci | Jakkid166 |
-| Steel Joker |  |
+| Steel Joker | Tony Nubby |
 | Scary Face | Mario |
 | Abstract Joker | Saul Goodman |
 | Delayed Gratification | Alex Eggleston |
@@ -58,14 +58,14 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Space Joker | It's Fantastic |
 | Egg | Garfield Kart |
 | Burglar | Maya Plush |
-| Blackboard |  |
+| Blackboard | Quiplash |
 | Runner | Cove Holden |
 | Ice Cream | AotA |
 | DNA | Yggdrasil |
 | Splash | @frorf ping role III |
 | Blue Joker | Goodra Plush |
 | Sixth Sense | Orga Orly |
-| Constellation |  |
+| Constellation | Metis Cykes |
 | Hiker | Crazy Cattle 3D |
 | Faceless Joker | Inga Karkhuul Khura'in |
 | Green Joker | Green Mode |
@@ -89,7 +89,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Midas Mask | Paul Atishon |
 | Luchador | Hot Purple Pikmin |
 | Photograph | Omori |
-| Gift Card |  |
+| Gift Card | Keiji Kiyowai |
 | Turtle Bean | Pea |
 | Erosion | Stretched Shuichi |
 | Reserved Parking | Gartic Phone |
@@ -98,9 +98,9 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Hallucination | Hallucination |
 | Fortune Teller | Uendo Toneido |
 | Juggler | Ragna the Bloodedge |
-| Drunkard |  |
+| Drunkard | The Devil |
 | Stone Joker | Hideo Kojima |
-| Golden Joker |  |
+| Golden Joker | Thanks for the Gold! |
 | Lucky Cat | Neco-Arc |
 | Baseball Card | Jacque Koff |
 | Bull | Neem |
@@ -113,7 +113,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Ramen | Burgers |
 | Walkie Talkie | Shelly de Killer |
 | Seltzer | Kay Faraday |
-| Castle |  |
+| Castle | Roller Coaster |
 | Smiley Face | face_holding_back_tears |
 | Campfire | Meowl |
 | Golden Ticket | 逆転裁判 |
@@ -140,20 +140,20 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | The Idol | Tohru Adachi |
 | Seeing Double | PyWright |
 | Matador | Fiftyset |
-| Hit the Road | Jacking Off (Planned) |
+| Hit the Road | Jacking Off |
 | The Duo | Bonny & Betty |
 | The Trio | Turnabout Academy |
 | The Family | Colias Palaeno |
-| The Order |  |
-| The Tribe |  |
+| The Order | Nahyuta Sahdmadhi |
+| The Tribe | Baby Apollo |
 | Stuntman | Kasane Pearto |
-| Invisible Joker |  |
+| Invisible Joker | Meg Griffin |
 | Brainstorm | *Unchanged, use Bluestorm* |
-| Satellite |  |
+| Satellite | Ramon |
 | Shoot the Moon | Emilia |
 | Driver's License | Apollo's Crotch |
 | Cartomancer | David Tennant |
-| Astronomer |  |
+| Astronomer | Ga'ran Sigatar Khura'in |
 | Burnt Joker | Party in the C.I.A. |
 | Bootstraps | Prick Gumshoe |
 | Canio | Duncan Seaman |
