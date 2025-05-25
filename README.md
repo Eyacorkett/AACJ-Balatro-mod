@@ -188,13 +188,14 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 
 | Original Hand | New Hand |
 | ------------- | ------------- |
-| Flush Five |  |
-| Flush House |  |
+| Flush Five | Skibidi Five |
+| Flush House | Skibidi Boob House |
 | Five of a kind | Rise from the Ashes |
+| Royal Flush | Royal Skibidi |
 | Straight Flush | Bi-Curious |
 | Four of a kind | Turnabout Storyteller |
 | Full House | Boob House |
-| Flush |  |
+| Flush | Skibidi Toilet |
 | Straight | Gay |
 | Three of a Kind | Turnabout Academy |
 | Two Pair | Two Pears |
