@@ -8,6 +8,11 @@ This mod is meant to be used alongside [BlueStorm](https://balatromods.miraheze.
 
 Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ Discord server who suggested ideas for cards!
 
+# To-do list
+* Swap _Uendo System_ and _Colias Palaeno_'s cards
+* Make the image of _Ryunosuke's Death_ more clear
+* General card touch-ups
+
 # Changes
 ## Jokers
 
@@ -100,7 +105,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | Mail-In Rebate | Celeste McCoy |
 | To the Moon | Bald Teto |
 | Hallucination | Hallucination |
-| Fortune Teller | Uendo Toneido |
+| Fortune Teller | Uendo System |
 | Juggler | Ragna the Bloodedge |
 | Drunkard | The Devil |
 | Stone Joker | Hideo Kojima |
