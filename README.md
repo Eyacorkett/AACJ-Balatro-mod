@@ -77,7 +77,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | DNA | Yggdrasil |
 | Splash | @frorf ping role III |
 | Blue Joker | Goodra Plush |
-| Sixth Sense | Orga Orly |
+| Sixth Sense | Olga Orly |
 | Constellation | Metis Cykes |
 | Hiker | Crazy Cattle 3D |
 | Faceless Joker | Inga Karkhuul Khura'in |
