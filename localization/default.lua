@@ -618,10 +618,10 @@ return {
         poker_hands = {
             ['Flush Five'] = "Flush Five",
             ['Flush House'] = "Flush House",
-            ['Five of a Kind'] = "Turnabout for Tomorrow",
+            ['Five of a Kind'] = "Rise from the Ashes",
             ['Royal Flush'] = "Royal Flush",
             ['Straight Flush'] = "Bi-Curious",
-            ['Four of a Kind'] = "The Cosmic Turnabout",
+            ['Four of a Kind'] = "Turnabout Storyteller",
             ['Full House'] = "Boob House",
             ['Flush'] = "Flush",
             ['Straight'] = "Gay",
