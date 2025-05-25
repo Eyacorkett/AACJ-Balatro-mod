@@ -1,6 +1,10 @@
-This WIP mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community. Meant to be used alongside [BlueStorm](https://balatromods.miraheze.org/wiki/BlueStorm).
+This mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community.
 
 Download the mod by pressing the green "Code" button, then pressing "Download ZIP".
+
+Install the mod using [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Malverk](https://github.com/Eremel/Malverk). A guide to installing Lovely can be found [here](https://github.com/ethangreen-dev/lovely-injector).
+
+This mod is meant to be used alongside [BlueStorm](https://balatromods.miraheze.org/wiki/BlueStorm). Place Bluestorm as being higher priority than this mod.
 
 Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ Discord server who suggested ideas for cards!
 
