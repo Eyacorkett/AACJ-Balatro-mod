@@ -1,6 +1,6 @@
 This mod for Balatro replaces elements of the game with stuff (sometimes only tangentially) related to the Ace Attorney Circlejerk community.
 
-Download the mod by pressing the green "Code" button, then pressing "Download ZIP". The "releases" section represents major milestones in the development of the mod, but contain outdated versions of the mod.
+Download the mod by pressing the green "Code" button, then pressing "Download ZIP". The "releases" section represents major milestones in the development of the mod, but contain outdated (but stable) versions of the mod.
 
 Install the mod using [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Malverk](https://github.com/Eremel/Malverk). A guide to installing Lovely can be found [here](https://github.com/ethangreen-dev/lovely-injector).
 
@@ -188,12 +188,15 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 
 | Original Hand | New Hand |
 | ------------- | ------------- |
+| Flush Five |  |
+| Flush House |  |
+| Five of a kind | Turnabout for Tomorrow |
 | Straight Flush | Bi-Curious |
-| Four of a kind |  |
+| Four of a kind | The Cosmic Turnabout |
 | Full House | Boob House |
 | Flush |  |
 | Straight | Gay |
-| Three of a Kind |  |
-| Two Pair |  |
-| Pair |  |
-| High Card |  |
+| Three of a Kind | Turnabout Academy |
+| Two Pair | Two Pears |
+| Pair | Pear |
+| High Card | Juniper Weeds |
