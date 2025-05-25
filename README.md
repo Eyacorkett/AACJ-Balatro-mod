@@ -7,7 +7,7 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 # Changes
 ## Jokers
 
-**Progress: 133/146**
+**Progress: 146/146**
 
 | Original Card | New Card |
 | ------------- | ------------- |
