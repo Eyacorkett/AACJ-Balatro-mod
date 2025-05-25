@@ -190,9 +190,9 @@ Thanks to betboxer for converting the mod to Malverk, and everyone in the AACJ D
 | ------------- | ------------- |
 | Flush Five |  |
 | Flush House |  |
-| Five of a kind | Turnabout for Tomorrow |
+| Five of a kind | Rise from the Ashes |
 | Straight Flush | Bi-Curious |
-| Four of a kind | The Cosmic Turnabout |
+| Four of a kind | Turnabout Storyteller |
 | Full House | Boob House |
 | Flush |  |
 | Straight | Gay |
